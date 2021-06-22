@@ -4,6 +4,7 @@
   "description" : "i am learniung node.js",
   "keywords" : ["hamza" , "usmani" , "freecodecamp"],
   "license" : "MIT",
+  "version" : "0.0.1",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
