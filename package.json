@@ -3,6 +3,7 @@
 	"author": "Jane",
   "description" : "i am learniung node.js",
   "keywords" : ["hamza" , "usmani" , "freecodecamp"],
+  "license" : "MIT",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
